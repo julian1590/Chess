@@ -1,0 +1,26 @@
+body {
+	background: #5F925E;
+}
+
+button {
+	background: #5F6D61;
+	height: 55px;
+}
+
+#header {
+	background: #123513;
+}
+
+#container {
+	background: #142F2D;
+	display: flex;
+	flex-direction: row;
+}
+
+#game {
+	background: black;
+}
+
+#menu {
+	background: #059D01;
+}
